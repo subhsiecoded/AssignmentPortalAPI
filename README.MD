@@ -40,7 +40,19 @@ The **Assignment Portal API** is a backend application built using **FastAPI** f
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/assignment-portal.git
+  ```
+
+2. Change to the folder:
+  ```bash
    cd assignment-portal
+  ```
+
+3. Install the python modules in the requirements.txt file:
+  ```bash
    pip install -r requirements.txt
+  ```
+
+4. Run the API using Uvicorn:
+  ```bash
    uvicorn main:app --reload
    ```
