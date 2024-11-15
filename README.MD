@@ -38,7 +38,7 @@ The **Assignment Portal API** is a backend application built using **FastAPI** f
 ## Installation
 
 1. Clone this repository:
-   ```bash
+  ```bash
    git clone https://github.com/yourusername/assignment-portal.git
   ```
 
